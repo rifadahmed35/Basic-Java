@@ -13,6 +13,7 @@ public class Pattern_type_19 {
                 System.out.print(col);
             }
             System.out.println();
+            //First pull request
         }
     }
 }
