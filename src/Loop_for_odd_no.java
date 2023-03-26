@@ -1,4 +1,4 @@
-public class Odd_no_for_loop {
+public class Loop_for_odd_no {
     public static void main(String[] args) {
         int i;
         for(i=1; i<=10; i++){
