@@ -1,4 +1,4 @@
-public class Loop_while_factorial_no {
+public class Loop_while_factorial_number {
     public static void main(String[] args) {
         int i, fact =1;
         i=4;
