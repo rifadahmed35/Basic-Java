@@ -1,4 +1,4 @@
-public class Reverse_of_pattern19 {
+public class Pattern_reverse_of_19 {
     public static void main(String[] args) {
         int N, row, col;
         N = 4;

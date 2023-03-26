@@ -1,4 +1,4 @@
-public class Rectangle_pattern {
+public class Pattern_Rectangle {
     public static void main(String[] args) {
         int N, row, col;
         N=4;

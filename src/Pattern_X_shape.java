@@ -1,4 +1,4 @@
-public class X_shape_pattern {
+public class Pattern_X_shape {
     public static void main(String[] args) {
         int N, row, col;
         N=5;
