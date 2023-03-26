@@ -1,4 +1,4 @@
-public class Loop_for_summation_of_number {
+public class Loop_for_summation_of_no {
     public static void main(String[] args) {
         int i, sum=0;
         for(i=30 ; i<=120; i++) {
