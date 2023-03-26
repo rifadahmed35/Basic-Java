@@ -1,4 +1,4 @@
-public class If_else_odd_even_no {
+public class If_else_odd_even_number {
     public static void main(String[] args)
     {
         int i;

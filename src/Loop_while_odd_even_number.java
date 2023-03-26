@@ -1,4 +1,4 @@
-public class Loop_while_odd_even_no {
+public class Loop_while_odd_even_number {
     public static void main(String[] args) {
         int num;
         num=10;

@@ -1,4 +1,4 @@
-public class If_else_if_positive_negative_no {
+public class If_else_if_positive_negative_number {
     public static void main(String[] args) {
         int x=-5;
         if(x>0){
