@@ -1,4 +1,4 @@
-public class Array_print_day_name {
+public class Array_1D_print_day_name {
     public static void main(String[] args){
         String day [] = {"Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" };
         int number = 3;

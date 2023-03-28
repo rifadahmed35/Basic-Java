@@ -1,4 +1,4 @@
-public class Array_using_for_each_loop {
+public class Array_1D_using_for_each_loop {
     public static void main(String[] args){
         String names[] = {"H", "E", "L", "L", "O", "W"};
 

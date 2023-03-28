@@ -1,4 +1,4 @@
-public class Array_basic {
+public class Array_1D_basic {
     public static void main(String[] args){
         int [] number = new int[5]; //declaration and creation.
         number[0] =10; //Initialization
