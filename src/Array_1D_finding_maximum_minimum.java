@@ -1,4 +1,4 @@
-public class Array_finding_maximum_minimum {
+public class Array_1D_finding_maximum_minimum {
     public static void main(String[] args){
         double number[] = {1, 3, 5, 2, 4};
         double sum = 0;
