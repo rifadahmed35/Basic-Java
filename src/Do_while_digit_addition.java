@@ -1,4 +1,4 @@
-public class Loop_do_while_digit_addition {
+public class Do_while_digit_addition {
     public static void main(String[] args) {
         int num=5321, sum=0;
         do{

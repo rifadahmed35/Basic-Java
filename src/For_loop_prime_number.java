@@ -1,4 +1,4 @@
-public class Loop_for_prime_number {
+public class For_loop_prime_number {
     public static void main(String[] args) {
         int i, num, count = 0;
         num = 13;

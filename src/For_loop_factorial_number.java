@@ -1,4 +1,4 @@
-public class Loop_for_factorial_number {
+public class For_loop_factorial_number {
     public static void main(String[] args) {
         int i, num, fact=1;
         num=4;

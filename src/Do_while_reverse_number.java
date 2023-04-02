@@ -1,4 +1,4 @@
-public class Loop_do_while_reverse_number {
+public class Do_while_reverse_number {
     public static void main(String[] args) {
         int num=4321, reverese=0;
         do{

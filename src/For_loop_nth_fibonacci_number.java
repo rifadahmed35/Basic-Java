@@ -1,4 +1,4 @@
-public class Loop_for_nth_fibonacci_number {
+public class For_loop_nth_fibonacci_number {
     public static void main(String[] args) {
         int i, num1, num2, N, fibo=0;
         N = 4;
