@@ -1,4 +1,4 @@
-public class Loop_for_reverse_digit {
+public class For_loop_reverse_digit {
     public static void main(String[] args) {
         int i, reverse=0;
         for(i=4321; i>0; i=i/10) {

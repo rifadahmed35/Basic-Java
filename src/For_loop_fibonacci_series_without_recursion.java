@@ -1,4 +1,4 @@
-public class Loop_for_fibonacci_series_without_recursion {
+public class For_loop_fibonacci_series_without_recursion {
     public static void main(String[] args) {
         int i, num1, num2, fibo, n;
         n=6;

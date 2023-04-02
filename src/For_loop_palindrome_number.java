@@ -1,4 +1,4 @@
-public class Loop_for_palindrome_number {
+public class For_loop_palindrome_number {
     public static void main(String[] args) {
         int num, temp, N, reverse=0;
         num=12121;

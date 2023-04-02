@@ -1,4 +1,4 @@
-public class Loop_do_while_generate_table {
+public class Do_while_generate_table {
     public static void main(String[] args) {
         int i, N;
         i =1;

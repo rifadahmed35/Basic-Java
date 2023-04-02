@@ -1,4 +1,4 @@
-public class Loop_do_while_fibonacci_number {
+public class Do_while_fibonacci_number {
     public static void main(String[] args) {
         int N, fibo=0;
         N=5;
