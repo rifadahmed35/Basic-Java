@@ -1,4 +1,4 @@
-public class String_demo_2 {
+public class String_class_demo_2 {
     public static void main(String[] args){
         String firstName = "Rifad";
         String lastName = " Ahmed";
@@ -8,7 +8,7 @@ public class String_demo_2 {
 
         System.out.println("Full name is: " +fullName);
 
-        //Or we can use concatenate method.
+        //Or we can use concatenate (Addition of string) method.
 
         String fullName2 = firstName.concat(lastName);
         System.out.println("Full name is: " +fullName);
