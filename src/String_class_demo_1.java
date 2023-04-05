@@ -1,4 +1,4 @@
-public class String_demo_1 {
+public class String_class_demo_1 {
     public static void main(String[] args){
 
         //String is a sequence of character in normal programming. But in java programming, it is object and

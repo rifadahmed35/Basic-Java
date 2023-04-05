@@ -1,4 +1,4 @@
-public class String_array {
+public class String_class_array {
     public static void main(String[] args){
         String name[] = {"Md", "Rifad", "Ahmed"};
         for(int i=0; i< name.length; i++){
