@@ -1,8 +1,14 @@
+import java.util.Scanner;
+
 public class For_loop_palindrome_number_m_n {
     public static void main(String[] args) {
-        int i, N, n, m, temp, reverse, count=0;
-        m=10;
-        n=121;
+        Scanner input = new Scanner(System.in);
+        int m, n;
+        System.out.println("Enter first number: ");
+        m = input.nextInt(); // m=10;
+        System.out.println("Enter second number: ");
+        n = input.nextInt(); // n=121;
+        int i, N,temp, reverse, count=0;
         for(i=m; i<=n; i++) {
             temp = i;
             reverse=0;

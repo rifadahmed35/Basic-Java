@@ -1,8 +1,14 @@
+import java.util.Scanner;
+
 public class For_loop_armstrong_number_m_n {
     public static void main(String[] args) {
-        int i, j, m, n, temp, sum, N, count=0;
-        m = 10;
-        n = 1000;
+        Scanner input = new Scanner(System.in);
+        int m, n;
+        System.out.println("Enter first numbers: ");
+        m = input.nextInt(); //10
+        System.out.println("Enter second numbers: ");
+        n = input.nextInt(); //1000
+        int i, temp, sum, N, count=0;
         for (i = m; i <= n; i++) {
             temp = i;
             sum = 0;

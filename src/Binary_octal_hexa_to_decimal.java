@@ -1,4 +1,4 @@
-public class Binary_octal_hexadecimal_to_decimal {
+public class Binary_octal_hexa_to_decimal {
     public static void main(String[] args){
         String binary = "1010";
         int decimal = Integer.parseInt(binary, 2);
