@@ -1,4 +1,4 @@
-public class Conversation_between_string_and_primitive {
+public class Conversation_string_and_primitive {
     public static void main(String[] args){
         //Convert primitive data to string.
         int x = 100;

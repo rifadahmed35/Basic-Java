@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class Binary_octal_hexadecimal_from_decimal {
+public class Binary_octal_hexa_from_decimal {
     public static void main(String[] args){
         Scanner  input = new Scanner(System.in);
-        int decimal;
+        int decimal; //15
         System.out.println("Enter any decimal number : ");
         decimal = input.nextInt();
 
