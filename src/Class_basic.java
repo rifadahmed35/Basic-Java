@@ -2,7 +2,7 @@ class Teacher{
     String name,gender;
     long phone;
 }
-public class Class_Teacher {
+public class Class_basic {
     public static void main(String[] args) {
         // Teacher teacher1; //Teacher is "Class" and here we "declare an Object".
         // teacher1 = new Teacher(); // Then we create an Object.
