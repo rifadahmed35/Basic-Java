@@ -3,7 +3,7 @@ class ReturningValueDemo {
         return value * value;
     }
 }
-public class Class_Returning_value_Test {
+public class Returning_value_Test {
     public static void main(String[] args) {
         ReturningValueDemo obj1 = new ReturningValueDemo();
         int result = obj1.square(4);
