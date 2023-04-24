@@ -1,8 +1,7 @@
 class Person2 {
     private String name;
     private int age;
-
-    // Press: Alt+Inset
+    //Press: Alt+Insert
     public void setName(String name) {
         this.name = name;
     }
