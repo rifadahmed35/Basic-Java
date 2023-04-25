@@ -1,4 +1,4 @@
-class Person2 {
+class Person3 {
     private String name;
     private int age;
     //Press: Alt+Insert
@@ -20,7 +20,7 @@ class Person2 {
 }
 public class Encapsulation_set_get_easyWay {
     public static void main(String[] args) {
-        Person2 p1 = new Person2();
+        Person3 p1 = new Person3();
         p1.setName("Rifad");
         System.out.println("Name: " +p1.getName());
         p1.setAge(27);
