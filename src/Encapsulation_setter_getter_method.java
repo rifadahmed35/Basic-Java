@@ -2,7 +2,7 @@ class Person1 {
     private String name;
     private int age;
 
-    // Manually:
+    //Press: Alt+Insert
     public void setName(String n) {
         name = n;
     }
