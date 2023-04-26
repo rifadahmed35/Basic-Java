@@ -18,7 +18,7 @@ class Person6{
         this.age = age;
     }
 }
-public class Inheriting_private_number_easyWay extends Person6{
+public class Inheriting_private_member_easyWay extends Person6{
     private String qualification;
 
     public String getQualification() {
@@ -35,12 +35,12 @@ public class Inheriting_private_number_easyWay extends Person6{
         System.out.println("Qualification: "+getQualification());
     }
     public static void main(String[] args) {
-        Inheriting_private_number_easyWay teacher1 = new Inheriting_private_number_easyWay();
+        Inheriting_private_member_easyWay teacher1 = new Inheriting_private_member_easyWay();
         teacher1.setName("Rifad");
         teacher1.setAge(27);
         teacher1.setQualification("BSc in Physics");
         teacher1.displayInformation3();
-        Inheriting_private_number_easyWay teacher2 = new Inheriting_private_number_easyWay();
+        Inheriting_private_member_easyWay teacher2 = new Inheriting_private_member_easyWay();
         teacher2.setName("Nadia");
         teacher2.setAge(24);
         teacher2.setQualification("BSc in BGE");
