@@ -29,6 +29,5 @@ public class Method_Overriding extends Individuals{
         i1.name = "Nadia";
         i1.age = 24;
         i1.displayInformation();
-
     }
 }
