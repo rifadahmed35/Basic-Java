@@ -8,7 +8,7 @@ class University2{
 
 public class Keyword_final_student extends University2 {
 
-    //If we declare a final keyword in a method, it cannot be overrided. but it can be inherited.
+    //If we declare a final keyword in a final method, it cannot be overrided. but it can be inherited.
     void display2() {
         super.display();
         System.out.println("Student info");
